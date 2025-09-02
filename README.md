@@ -29,22 +29,9 @@ The analysis was done as part of a case study, and an interactive dashboard was 
 
 ---
 
-## 📂 Project Files
-- `Dashboard.pbix` → Interactive Power BI dashboard file  
-- `Images/` → Screenshots of the dashboard  
-- `Insights.md` → Summary of detailed findings  
-- `Data/` → (Optional, if dataset is allowed to share)  
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](https://github.com/pranavpatil6625-Analyst/Industrial-parental-leave-Analysis/blob/main/Screenshot%202025-09-01%20103119.png)
-
----
-
 ## 🚀 How to Use
 1. Clone this repository  
-2. Open the `Dashboard.pbix` file in **Power BI Desktop**  
+2. Open the `Parental Policy.pbix` file in **Power BI Desktop**  
 3. Interact with the filters and visuals to explore the insights  
 
 ---
@@ -57,3 +44,7 @@ Feel free to share feedback or suggestions!
 ---
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-patil-e03042004)  
+
+---
+## 📸 Dashboard Preview
+![Dashboard Screenshot](https://github.com/pranavpatil6625-Analyst/Industrial-parental-leave-Analysis/blob/main/Screenshot%202025-09-01%20103119.png)
