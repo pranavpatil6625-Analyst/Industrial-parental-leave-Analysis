@@ -38,7 +38,7 @@ The analysis was done as part of a case study, and an interactive dashboard was 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Images/Dashboard.png)
+![Dashboard Screenshot](https://github.com/pranavpatil6625-Analyst/Industrial-parental-leave-Analysis/blob/main/Screenshot%202025-09-01%20103119.png)
 
 ---
 
@@ -56,4 +56,4 @@ Feel free to share feedback or suggestions!
 
 ---
 
-🔗 Connect with me on [LinkedIn](your-linkedin-url)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-patil-e03042004)  
